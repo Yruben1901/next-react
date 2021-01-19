@@ -1,0 +1,19 @@
+{
+  "name": "next-react",
+  "version": "1.0.0",
+  "description": "Server Side Rendering Example",
+  "dependencies": {
+    "gray-matter": "^4.0.2",
+    "next": "^10.0.5",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Yainier M. Ruben",
+  "license": "ISC"
+}
