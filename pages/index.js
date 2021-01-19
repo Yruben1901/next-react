@@ -14,8 +14,8 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>Ingeniero en Ciencias Informáticas con 10+ años de experiencia en el desarrollo de software empleando varias metodologías.</p>
         <p>
-          (This is a sample website - you’ll be building a site like this on{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+          (Esta es una web de ejemplo - crearás una parecida en{' '}
+          <a href="https://nextjs.org/learn">el tutorial de Next.js</a>.)
         </p>
       </section>
 
